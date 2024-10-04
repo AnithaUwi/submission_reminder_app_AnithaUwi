@@ -1,0 +1,8 @@
+student, assignment, submission status
+here, Shell Navigation, submitted
+Noel, Shell Navigation, not submitted
+Anitha, shell scripting, submitted
+Bryce, shell scripting, not submitted
+Brune, shell scripting, submitted
+Keza, shell scripting, not submitted
+Chriss, shell scripting, submitted
